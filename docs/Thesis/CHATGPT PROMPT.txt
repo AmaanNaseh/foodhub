@@ -1,0 +1,4 @@
+I have a project named AI-Driven Personalized Content Recommendation System for E-Commerce Web Applications. 
+Tech stack: MERN Stack, Tailwind CSS, Flask, pandas, mlxtend, joblib.
+Features:
+Admin and User Login Signup, Profile Page, Products section to see and purchase products, Cart to confirm/reject items (AI is integrated here based on whatever item user chooses, there is a get recommendation button which displays recommended item based on ML after clicking it), Order history page to see past orders, Admin Dashboard to perform CRUD operations on product and see its purchasers.
